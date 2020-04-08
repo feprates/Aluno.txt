@@ -1,2 +1,3 @@
 RA: 420105834
 Curso: Sistemas de Informação 
+Data de Nascimento: 21/11/2002
